@@ -1,2 +1,2 @@
-# SECRET
-A webpage with some stuf from "The Secret, 2006" film
+# Vision
+Web page containing a small catalog of my favorite movies
