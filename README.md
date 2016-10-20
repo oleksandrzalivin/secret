@@ -1,2 +1,2 @@
-# secret
-A webpage with some stuf from the film "The Secret, 2006"
+# SECRET
+A webpage with some stuf from "The Secret, 2006" film
