@@ -1,0 +1,116 @@
+body {
+    display: block;
+}
+nav {
+    display: flex;
+}
+nav div {
+    text-align: right;
+    margin: auto;
+    font-size: 1.2rem;
+}
+#header {
+    width: 100%;
+    background-image: url('../images/vision.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: 7px;
+    font-family: cursive, serif;
+}
+#header .container {
+    text-align: center;
+    height: 50%;
+}
+#header h1 {
+    margin-top: 65%;
+    color: gold;
+    font-size: 4rem;
+    font-family: verdana;
+}
+#header h2 {
+    margin-top: 2%;
+    margin-left: 5rem;
+    font-size: 2.3rem;
+    color: gainsboro;
+}
+.title {
+    background-color: royalblue;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid gold;
+}
+.title a {
+    color: gold;
+    font-family: sans-serif;
+}
+.title h2 {
+    color: gold;
+    font-family: sans-serif;
+    margin: 0px auto;
+    font-size: 2rem;
+}
+.container {
+    width: 85%;
+    min-width: 200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.row {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 5px;
+}
+.col-6 {
+    width: 50%;
+}
+.col-4 {
+    width: 33.3%;
+}
+.col-3 {
+    width: 25%;
+}
+.group img {
+    width: 30rem;
+    height: 20rem;
+    justify-content: center;
+}
+.footer p {
+    display: inline;
+    margin-right: 25px;
+    color: blue;
+}
+.footer {
+    background-color: gold;
+    margin: 10px auto;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid royalblue;
+}
+.left {
+    text-align: left;
+}
+.right {
+    text-align: right;
+}
+.btn {
+    font-size: 1.2rem;
+    color: green;
+    width: 100%;
+    background-color: blanchedalmond;
+    border-radius: 7px;
+    border: 1px solid red;
+    text-align: center;
+    margin: 5px auto;
+}
+a {
+    color: blue;
+}
+p {
+    font-family: georgia;
+}
